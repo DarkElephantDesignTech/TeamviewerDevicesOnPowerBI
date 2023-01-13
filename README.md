@@ -9,4 +9,6 @@ I enlisted some help from ChatGPT to figure out how to iterate through the list 
 -Hardware 
 -Software
 
+Simply copy/paste the code in "Advanced Editor" and follow the comments to enter your API Key and choose the information you're trying to get.
+
 If you are just looking for a starting point to pull from Teamviewer API or just want to run a quick analysis of your hardware, installed software etc, This script is for you, and you're welcome. 
